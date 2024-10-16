@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Интернет дүкен</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Интернет дүкен</h1>
+            <nav>
+                <ul>
+                    <li><a href="#">Басты бет</a></li>
+                    <li><a href="#">Өнімдер</a></li>
+                    <li><a href="#">Байланыс</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <section class="products">
+        <div class="container">
+            <h2>Өнімдер мен бағалар</h2>
+            <div class="product-list">
+                <div class="product">
+                    <img src="https://via.placeholder.com/300x300.png?text=Өнім+1" alt="Өнім 1">
+                    <h3>Өнім 1</h3>
+                    <p>Бағасы: 5000 тг</p>
+                </div>
+                <div class="product">
+                    <img src="https://via.placeholder.com/300x300.png?text=Өнім+2" alt="Өнім 2">
+                    <h3>Өнім 2</h3>
+                    <p>Бағасы: 7000 тг</p>
+                </div>
+                <div class="product">
+                    <img src="https://via.placeholder.com/300x300.png?text=Өнім+3" alt="Өнім 3">
+                    <h3>Өнім 3</h3>
+                    <p>Бағасы: 10000 тг</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>© 2024 Интернет дүкен. Барлық құқықтар қорғалған.</p>
+        </div>
+    </footer>
+</body>
+</html>
